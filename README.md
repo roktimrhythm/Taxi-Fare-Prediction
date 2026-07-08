@@ -25,6 +25,13 @@ streamlit run app.py
 - Algorithm: Linear Regression
 - Feature: Distance
 - Target: Fare
+## Live Demo
+
+Streamlit App:
+https://taxi-fare-predictiongit-tigqbytdhzgncavarwce2a.streamlit.app
+
+GitHub Repository:
+https://github.com/roktimrhythm/Taxi-Fare-Prediction
 
 ## 👨‍💻 Author
 Rhythm
